@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/m_axwel_l/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/.cxx/Debug/3u1s5o2m/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/m_axwel_l/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/.cxx/Debug/3u1s5o2m/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "opencv_jni_shared",
+      "output": "/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/.cxx/Debug/3u1s5o2m/x86/libopencv_jni_shared.a"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/m_axwel_l/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/m_axwel_l/Library/Android/sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

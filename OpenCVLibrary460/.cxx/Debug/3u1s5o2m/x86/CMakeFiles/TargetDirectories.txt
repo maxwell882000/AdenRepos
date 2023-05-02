@@ -1,0 +1,3 @@
+/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/.cxx/Debug/3u1s5o2m/x86/CMakeFiles/opencv_jni_shared.dir
+/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/.cxx/Debug/3u1s5o2m/x86/CMakeFiles/edit_cache.dir
+/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/.cxx/Debug/3u1s5o2m/x86/CMakeFiles/rebuild_cache.dir

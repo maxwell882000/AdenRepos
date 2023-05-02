@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/m_axwel_l/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/.cxx/RelWithDebInfo/4k5x6466/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/m_axwel_l/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/.cxx/RelWithDebInfo/4k5x6466/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "x86",
+      "output": "/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/SOC4030/OpenCVLibrary460/.cxx/RelWithDebInfo/4k5x6466/x86/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

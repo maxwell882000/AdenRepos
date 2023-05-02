@@ -1,0 +1,19 @@
+                    -H/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/FoodDirectory/OpenCVLibrary460/libcxx_helper
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=21
+-DANDROID_PLATFORM=android-21
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/m_axwel_l/Library/Android/sdk/ndk/25.2.9519653
+-DCMAKE_ANDROID_NDK=/Users/m_axwel_l/Library/Android/sdk/ndk/25.2.9519653
+-DCMAKE_TOOLCHAIN_FILE=/Users/m_axwel_l/Library/Android/sdk/ndk/25.2.9519653/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/m_axwel_l/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/FoodDirectory/OpenCVLibrary460/build/intermediates/cxx/Debug/1b2c5a1r/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/FoodDirectory/OpenCVLibrary460/build/intermediates/cxx/Debug/1b2c5a1r/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/m_axwel_l/Desktop/INHA/Mobile Programing/Project/FoodDirectory/OpenCVLibrary460/.cxx/Debug/1b2c5a1r/x86
+-GNinja
+-DANDROID_STL=c++_shared
+                    Build command args: []
+                    Version: 2
